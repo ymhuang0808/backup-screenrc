@@ -1,4 +1,4 @@
 backup-screenrc
 ===============
 
-backup my screenrc
+backup screenrc
